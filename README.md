@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNvMm4zcWx6OHJ2a3FoMDU4djduZG42cmFydGFueWNmenJvM2I4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" width="600" alt="GIF">
+</div>
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[Name]&fontSize=70" width="100%" />
 
   <h3> 🎓 BSIT Student | 💻 Web Developer | ⚽ Futsal Enthusiast </h3>
