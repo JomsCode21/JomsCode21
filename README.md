@@ -4,7 +4,6 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20[Name]&fontSize=70" width="100%" />
 
   <h3> 🎓 BSIT Student | 💻 Web Developer | ⚽ Futsal Enthusiast </h3>
 
