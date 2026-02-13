@@ -9,7 +9,6 @@
 
   <p>
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" />
-    <img src="https://img.shields.io/badge/Main_Project-Food_Mapping_System-orange?style=flat-square" />
   </p>
 </div>
 
