@@ -8,7 +8,7 @@
   <h3> 🎓 BSIT Student | 💻 Web Developer | ⚽ Futsal Enthusiast </h3>
 
   <p>
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followersJomsCode21?label=Follow&style=social" />
   </p>
 </div>
 
