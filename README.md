@@ -110,17 +110,12 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&border_radius=10&bg_color=1a1b27" alt="JomsCode21 GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=JomsCode21&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b27" alt="JomsCode21 Top Languages" />
-</div>
+![JomsCode21 GitHub Stats](https://github-readme-stats.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&border_radius=10&bg_color=1a1b27)
+![JomsCode21 Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JomsCode21&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b27)
 
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JomsCode21&theme=tokyonight&hide_border=true&background=1a1b27" alt="JomsCode21 GitHub Streak" />
-</div>
-
+![JomsCode21 GitHub Streak](https://streak-stats.demolab.com/?user=JomsCode21&theme=tokyonight&hide_border=true&background=1a1b27)
 ---
 
 <h2>🤝 Let’s Connect</h2>
