@@ -57,7 +57,6 @@
 <h2 align="center">🧰 Tech Stack</h2>
 
 <div align="center">
-
   <p><b>Main tools I use</b></p>
 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -71,7 +70,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 </div>
 
 <br>
@@ -103,7 +101,7 @@
           Real-world school / capstone-style systems focused on usability and clear workflows.
         </p>
         <ul>
-          <li><b>Food Mapping & Analytics</b> (PHP, MySQL, Maps)</li>
+          <li><b>Food Mapping & Analytics</b> (PHP, MySQL)</li>
           <li><b>Booking System</b> (PHP-based)</li>
         </ul>
         <p>
@@ -133,17 +131,21 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity (Near Real-Time)</h2>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&border_radius=10&bg_color=1a1b27" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomsCode21&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b27" />
+  <img height="165em"
+       src="https://github-readme-stats.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&border_radius=10&bg_color=1a1b27&cache_seconds=900" />
+
+  <img height="165em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomsCode21&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b27&cache_seconds=900" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JomsCode21&theme=tokyonight&hide_border=true&background=1a1b27" width="90%" />
+  <img width="90%"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=JomsCode21&theme=tokyonight&hide_border=true&background=1a1b27" />
 </div>
 
 <br>
