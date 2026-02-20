@@ -112,21 +112,23 @@
 
 ---
 
-<h2>📊 GitHub (Near Real-Time)</h2>
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
-  <img height="165em"
-       src="https://github-readme-stats.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&border_radius=10&bg_color=1a1b27&cache_seconds=900" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&border_radius=10&bg_color=1a1b27" 
+       alt="JomsCode21 GitHub Stats" />
 
-  <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomsCode21&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b27&cache_seconds=900" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomsCode21&layout=compact&theme=tokyonight&border_radius=10&bg_color=1a1b27" 
+       alt="JomsCode21 Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=JomsCode21&theme=tokyonight&hide_border=true&background=1a1b27" />
+  <img src="https://streak-stats.demolab.com/?user=JomsCode21&theme=tokyonight&hide_border=true&background=1a1b27" 
+       alt="JomsCode21 GitHub Streak" />
 </div>
 
 ---
