@@ -153,7 +153,7 @@
 <h2 align="center">🤝 Let’s Connect</h2>
 
 <div align="center">
-  <a href="mailto:INSERT-YOUR-EMAIL@GMAIL.COM">
+  <a href="mailto:iramuhjsolag@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/INSERT-YOUR-LINKEDIN-USER">
