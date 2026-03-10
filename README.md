@@ -109,6 +109,15 @@
 
 <hr>
 
+## 📊 Player Performance (GitHub Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Stats Card" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JomsCode21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Languages Card" />
+</p>
+
+<hr>
+
 <h2 id="-github-stats">📊 GitHub Dashboard</h2>
 
 <div align="center">
