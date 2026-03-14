@@ -39,6 +39,15 @@
     <p>I’m a <b>witty-professional</b> developer who likes shipping <b>clean UIs</b> and <b>useful backends</b>. I'm currently in my 4th year studying BS Information Technology at Central Bicol State University of Agriculture - Sipocot.</p>
     <p><b>🧩 Problem Solver:</b> I thrive on taking complex, messy real-world requirements and turning them into systems that are actually intuitive for the end-user. I lean heavily into the <b>MERN-style workflow</b>.</p>
     <p><b>💤 Off-screen:</b> When my screen time finally reaches critical mass, my primary hobby is aggressively <b>sleeping</b> to recharge for the next debugging session.</p>
+<p><b>💼 Full-stack direction:</b> I’m focused on becoming a <b>Full-stack Web Developer / Junior Software Engineer</b>, building real-world apps that go from idea → UI → API → database → deployment.</p>
+
+<p><b>🧱 What I deliver:</b> responsive front-ends, REST APIs, and database-backed features (auth, CRUD, dashboards, admin tools). I like making systems that are <b>simple for users</b> but <b>structured for developers</b>.</p>
+
+<p><b>🧠 Engineering habits:</b> I prioritize clean code, reusable components, consistent API contracts, and practical database design. I also implement basic security hygiene (input validation, auth checks, and safe error handling).</p>
+
+<p><b>🔁 Currently leveling up:</b> TypeScript confidence, modern React patterns, and improving project documentation so other devs can run and contribute fast.</p>
+
+<p><b>🤝 Open to:</b> internships, junior roles, freelance projects, and collaborations—especially product-style web apps and internal tools for real businesses.</p>
   </blockquote>
 </details>
 
