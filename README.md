@@ -24,7 +24,7 @@
     <a href="#-about-me"><b>About Me</b></a> &nbsp;•&nbsp;
     <a href="#-tech-stack"><b>Tech Stack</b></a> &nbsp;•&nbsp;
     <a href="#-featured-projects"><b>Projects</b></a> &nbsp;•&nbsp;
-    <a href="#-github-stats"><b>Stats</b></a>
+    <a href="#-github-dashboard"><b>Stats</b></a>
   </p>
 </div>
 
@@ -39,15 +39,11 @@
     <p>I’m a <b>witty-professional</b> developer who likes shipping <b>clean UIs</b> and <b>useful backends</b>. I'm currently in my 4th year studying BS Information Technology at Central Bicol State University of Agriculture - Sipocot.</p>
     <p><b>🧩 Problem Solver:</b> I thrive on taking complex, messy real-world requirements and turning them into systems that are actually intuitive for the end-user. I lean heavily into the <b>MERN-style workflow</b>.</p>
     <p><b>💤 Off-screen:</b> When my screen time finally reaches critical mass, my primary hobby is aggressively <b>sleeping</b> to recharge for the next debugging session.</p>
-<p><b>💼 Full-stack direction:</b> I’m focused on becoming a <b>Full-stack Web Developer / Junior Software Engineer</b>, building real-world apps that go from idea → UI → API → database → deployment.</p>
-
-<p><b>🧱 What I deliver:</b> responsive front-ends, REST APIs, and database-backed features (auth, CRUD, dashboards, admin tools). I like making systems that are <b>simple for users</b> but <b>structured for developers</b>.</p>
-
-<p><b>🧠 Engineering habits:</b> I prioritize clean code, reusable components, consistent API contracts, and practical database design. I also implement basic security hygiene (input validation, auth checks, and safe error handling).</p>
-
-<p><b>🔁 Currently leveling up:</b> TypeScript confidence, modern React patterns, and improving project documentation so other devs can run and contribute fast.</p>
-
-<p><b>🤝 Open to:</b> internships, junior roles, freelance projects, and collaborations—especially product-style web apps and internal tools for real businesses.</p>
+    <p><b>💼 Full-stack direction:</b> I’m focused on becoming a <b>Full-stack Web Developer / Junior Software Engineer</b>, building real-world apps that go from idea → UI → API → database → deployment.</p>
+    <p><b>🧱 What I deliver:</b> responsive front-ends, REST APIs, and database-backed features (auth, CRUD, dashboards, admin tools). I like making systems that are <b>simple for users</b> but <b>structured for developers</b>.</p>
+    <p><b>🧠 Engineering habits:</b> I prioritize clean code, reusable components, consistent API contracts, and practical database design. I also implement basic security hygiene (input validation, auth checks, and safe error handling).</p>
+    <p><b>🔁 Currently leveling up:</b> TypeScript confidence, modern React patterns, and improving project documentation so other devs can run and contribute fast.</p>
+    <p><b>🤝 Open to:</b> internships, junior roles, freelance projects, and collaborations—especially product-style web apps and internal tools for real businesses.</p>
   </blockquote>
 </details>
 
@@ -118,7 +114,7 @@
 
 <hr>
 
-## 📊 Player Performance (GitHub Stats)
+<h2 id="-github-stats">📈 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=JomsCode21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d" height="165" alt="Stats Card" />
@@ -127,7 +123,7 @@
 
 <hr>
 
-<h2 id="-github-stats">📊 GitHub Dashboard</h2>
+<h2 id="-github-dashboard">📊 GitHub Dashboard</h2>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JomsCode21&theme=tokyo-night&bg_color=1a1b27&hide_border=true" alt="JomsCode21's Activity Graph" width="90%" />
@@ -156,8 +152,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JomsCode21/JomsCode21/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JomsCode21/JomsCode21/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JomsCode21/JomsCode21/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
